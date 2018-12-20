@@ -1,0 +1,4 @@
+apiVersion: v1
+description: "A decorator for Python's class."
+name: umuus_simple_decorator
+version: 0.1
